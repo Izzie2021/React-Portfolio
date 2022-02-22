@@ -41,4 +41,4 @@ To meet the acceptance criteria, I did the following:
 -  Input the code with react to create react portfolio
 -  Deployed app using github pages
 
-[Link to deployed application]()
+[Link to deployed application](https://izzie2021.github.io/React-Portfolio/)
